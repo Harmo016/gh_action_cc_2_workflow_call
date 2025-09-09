@@ -4,4 +4,4 @@ on:
   workflow_dispatch
 jobs:
   call-other-workflow:
-    uses: Harmo016/gh-first-action/github/workflows/first-action.yml
+    uses: Harmo016/gh-first-action/github/workflows/first-action.yml@main
